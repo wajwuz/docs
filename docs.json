@@ -1,7 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "misiu.spejs",
+  "name": "misiu spejs",
+  "description": "uslugi hostingowe",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
